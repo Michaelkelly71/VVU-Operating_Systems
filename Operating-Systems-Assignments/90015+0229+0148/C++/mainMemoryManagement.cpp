@@ -2,7 +2,7 @@
 ID              NAME
 219cs01090015   OSEI MICHAEL KELLY
 219it02000229   KOBBINA AMOAH
-0000000000148   BADOLO DEBORA
+219it01000148   BADOLO DEBORA
 
 A program to simulate memory management techniques
 **/
